@@ -1,0 +1,6 @@
+osxutils is a bundle of Mac OS X-specific command line utilities for viewing, editing and manipulating HFS file metadata such as labels, comments, file/creator types, Finder flags etc.
+
+
+Original code made by Sveinbjorn Thordarson. GNU GPL License.
+http://osxutils.sourceforge.net/
+
